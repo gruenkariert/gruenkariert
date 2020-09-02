@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenny</h1>
-<h3 align="center">an aspiring developer who just began to learn programming this year.</h3>
+<h3 align="center">a wannabe developer who just began learning what she should have started learning two decades ago.</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Python, Java, and first and foremost: thinking like a programmer!**
 
